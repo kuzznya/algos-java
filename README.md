@@ -4,7 +4,9 @@ Made for practice using Java
 
 Work is in progress (yet quite slow)
 
-## Sorts
+## Algorithms
+
+### Sorts
 
 1. [Bubble Sort](src/com/github/kuzznya/sort/BubbleSort.java)
 2. [Selection Sort](src/com/github/kuzznya/sort/SelectionSort.java)
@@ -12,3 +14,9 @@ Work is in progress (yet quite slow)
 4. [Merge Sort](src/com/github/kuzznya/sort/MergeSort.java)
 5. [Heap Sort](src/com/github/kuzznya/sort/HeapSort.java)
 
+## Data structures
+
+### Lists
+
+1. [Singly linked list](src/com/github/kuzznya/ds/list/SinglyLinkedList.java)
+2. [Doubly linked list](src/com/github/kuzznya/ds/list/DoublyLinkedList.java)
